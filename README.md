@@ -2,7 +2,7 @@
 
 I work mainly as a Front-end developer. I have a bachelor degree in Information Technology at NTNU and have recently finished my first year studying Front-end developement at Noroff. I have studied several years of my adult life so I will not continue my stuides at Noroff for now. But I am sure I would like to study some more eventually.
 
-My githud mainly contains projects from my studies, but I hope to have the time to work on my own projects some time 😄.
+My githud mainly contains projects from my studies, but I hope to have time to work on my own projects some time 😄.
 
 <!--
 **maritAndreassen/maritAndreassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
